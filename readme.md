@@ -5,6 +5,8 @@ assignment in `assignment.md` file in this repo.
 
 The release APK of this app is located under releases inside this repo.
 
+You can find it here: https://github.com/MickSawy3r/spotiapp/releases/tag/v1
+
 ## Key Modules and Files.
 
 For `OkHttp` Implementation please refer to `common/network` module.
