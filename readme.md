@@ -66,6 +66,8 @@ The modules I have written are:
 
 ### Feature
 
+![bob](./art/bob.png)
+
 For Any Given Feature we have 6 main folders:
    1. Presentation:
         Contains the ViewModel and Fragments (UI)
